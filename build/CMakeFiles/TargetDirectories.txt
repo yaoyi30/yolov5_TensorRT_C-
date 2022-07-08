@@ -1,0 +1,3 @@
+/media/yao/Data/yolov5-tensorrt/build/CMakeFiles/rebuild_cache.dir
+/media/yao/Data/yolov5-tensorrt/build/CMakeFiles/yolov5_trt.dir
+/media/yao/Data/yolov5-tensorrt/build/CMakeFiles/edit_cache.dir
